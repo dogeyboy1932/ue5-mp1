@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/vg23/Downloads/OneDrive_1_2-7-2025/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Textures/spotted-rust_albedo.uasset",
+				"C:/Users/vg23/Downloads/OneDrive_1_2-7-2025/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/vg23/Downloads/OneDrive_1_2-7-2025/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/BasicShapes/Sphere.uasset",
+				"C:/Users/vg23/Downloads/OneDrive_1_2-7-2025/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/vg23/Downloads/OneDrive_1_2-7-2025/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/vg23/Downloads/OneDrive_1_2-7-2025/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/gogin/OneDrive - University of Illinois - Urbana/Dump/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/gogin/OneDrive - University of Illinois - Urbana/Dump/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/gogin/OneDrive - University of Illinois - Urbana/Dump/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/gogin/OneDrive - University of Illinois - Urbana/Dump/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/gogin/Downloads/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HealthBar.uasset",
+				"C:/Users/gogin/Downloads/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/gogin/Downloads/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/gogin/Downloads/InfiniteMatrixBaseline/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset"
+			]
+		}
+	]
+}
